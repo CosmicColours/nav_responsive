@@ -30,7 +30,7 @@ header .wrapper {
     align-items: center;
 }
 
-.page-header .wrapper{
+.page-header .wrapper {
     background-color: #ed9b28;
     justify-content: flex-end;
 }
@@ -62,11 +62,11 @@ header {
 }
 
 .top-nav a:hover {
-    color: #ed9b28;
+    color: #dc28ed;
 
 }
 
-.top-nav .active{
+.top-nav .active {
     text-decoration: underline;
 
 }
